@@ -1,0 +1,7 @@
+Artificial Intelligence Syllabus:
+1. Introduction to AI: History and major applications.
+2. Machine Learning: Supervised learning, unsupervised learning, and reinforcement learning.
+3. Neural Networks and Deep Learning: Perceptrons, convolutional neural networks (CNNs), and recurrent neural networks (RNNs).
+4. Natural Language Processing (NLP): Language models, text classification, and sentiment analysis.
+5. Computer Vision: Object detection, image recognition, and image segmentation.
+6. Ethics in AI: Bias, fairness, and responsible AI development.

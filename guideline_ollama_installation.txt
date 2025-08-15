@@ -1,0 +1,13 @@
+official website: https://ollama.com/
+Ollama Setup
+You must have Ollama installed and running in the background. If you haven't yet, install it from the official website.
+
+Now, open a new terminal and download the necessary models. This requires an internet connection.
+
+Download the generative LLM:
+code:
+ollama pull llama3
+Download the embedding model:
+command:
+
+ollama pull nomic-embed-text
