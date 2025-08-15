@@ -1,2 +1,3 @@
 # Local_AI
-Based on your project's unique value proposition—operating fully offline with a custom knowledge base
+Local AI operating fully offline with a custom knowledge base.
+No Need of Internet Now .........
